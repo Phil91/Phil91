@@ -47,7 +47,7 @@
 ### 🏃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-test
+1. 💪 Opened PR [#113](https://github.com/catenax-ng/product-portal-backend/pull/113) in [catenax-ng/product-portal-backend](https://github.com/catenax-ng/product-portal-backend)
 <!--END_SECTION:activity-->
 
 <details>
