@@ -47,7 +47,7 @@
 ### 🏃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/catenax-ng/product-portal-backend/issues/110) in [catenax-ng/product-portal-backend](https://github.com/catenax-ng/product-portal-backend)
+1. 🗣 Commented on [#120](https://github.com/catenax-ng/product-portal-backend/issues/120) in [catenax-ng/product-portal-backend](https://github.com/catenax-ng/product-portal-backend)
 <!--END_SECTION:activity-->
 
 <details>
