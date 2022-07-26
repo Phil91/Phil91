@@ -17,4 +17,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           COMMIT_MSG: 'Update readme activity'
-          MAX_LINES: 5
