@@ -38,6 +38,7 @@
 [<img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />][postgresql]
 [<img align="left" alt="JetBrains Rider" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" style="padding-right:10px;" />][rider]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
+[<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />][azure]
 
 <br />
 <br />
@@ -76,3 +77,4 @@
 [git]: https://git-scm.com/
 [typescript]: https://www.typescriptlang.org/
 [redis]: https://redis.io/
+[azure]: https://azure.com/
