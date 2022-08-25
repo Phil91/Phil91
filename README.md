@@ -48,7 +48,7 @@
 ### 🏃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#184](https://github.com/catenax-ng/product-portal-backend/pull/184) in [catenax-ng/product-portal-backend](https://github.com/catenax-ng/product-portal-backend)
+1. 🗣 Commented on [#111](https://github.com/tractusx-team-portal-onboarding/devenv/issues/111) in [tractusx-team-portal-onboarding/devenv](https://github.com/tractusx-team-portal-onboarding/devenv)
 <!--END_SECTION:activity-->
 
 <details>
