@@ -48,7 +48,7 @@
 ### 🏃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com/tractusx-team-portal-onboarding/devenv/pull/128) in [tractusx-team-portal-onboarding/devenv](https://github.com/tractusx-team-portal-onboarding/devenv)
+1. 💪 Opened PR [#53](https://github.com/win7user10/Laraue.EfCoreTriggers/pull/53) in [win7user10/Laraue.EfCoreTriggers](https://github.com/win7user10/Laraue.EfCoreTriggers)
 <!--END_SECTION:activity-->
 
 <details>
