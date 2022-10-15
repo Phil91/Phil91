@@ -48,7 +48,7 @@
 ### 🏃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#269](https://github.com/catenax-ng/product-portal-backend/pull/269) in [catenax-ng/product-portal-backend](https://github.com/catenax-ng/product-portal-backend)
+1. 🎉 Merged PR [#271](https://github.com/catenax-ng/product-portal-backend/pull/271) in [catenax-ng/product-portal-backend](https://github.com/catenax-ng/product-portal-backend)
 <!--END_SECTION:activity-->
 
 <details>
