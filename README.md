@@ -48,7 +48,7 @@
 ### 🏃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#161](https://github.com/tractusx-team-portal-onboarding/devenv/pull/161) in [tractusx-team-portal-onboarding/devenv](https://github.com/tractusx-team-portal-onboarding/devenv)
+1. 💪 Opened PR [#287](https://github.com/catenax-ng/product-portal-backend/pull/287) in [catenax-ng/product-portal-backend](https://github.com/catenax-ng/product-portal-backend)
 <!--END_SECTION:activity-->
 
 <details>
