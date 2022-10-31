@@ -48,7 +48,7 @@
 ### 🏃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#298](https://github.com/catenax-ng/product-portal-backend/pull/298) in [catenax-ng/product-portal-backend](https://github.com/catenax-ng/product-portal-backend)
+1. 🗣 Commented on [#51](https://github.com/win7user10/Laraue.EfCoreTriggers/issues/51) in [win7user10/Laraue.EfCoreTriggers](https://github.com/win7user10/Laraue.EfCoreTriggers)
 <!--END_SECTION:activity-->
 
 <details>
