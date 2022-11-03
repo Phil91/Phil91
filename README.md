@@ -3,7 +3,7 @@
 ## I'm a Software Architect from Germany!
 
 - 💻 I’m currently working on: ... private (hopefully soon to be public) projects
-- 🥅 2022 Goals: ... learn more about web3, Svelte and Nuxt / Next
+- 🥅 2022 Goals: ... learn more about Rust, web3, Svelte and Nuxt / Next
 - 📚 I’m currently learning: ... everything 🤣
 - ⚡ Fun fact: ... I love to surf 🏄‍♂️ and everything marvel related
 
