@@ -48,7 +48,7 @@
 ### 🏃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/win7user10/Laraue.EfCoreTriggers/issues/51) in [win7user10/Laraue.EfCoreTriggers](https://github.com/win7user10/Laraue.EfCoreTriggers)
+1. 🎉 Merged PR [#167](https://github.com/tractusx-team-portal-onboarding/devenv/pull/167) in [tractusx-team-portal-onboarding/devenv](https://github.com/tractusx-team-portal-onboarding/devenv)
 <!--END_SECTION:activity-->
 
 <details>
