@@ -48,7 +48,7 @@
 ### 🏃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#342](https://github.com/catenax-ng/product-portal-backend/issues/342) in [catenax-ng/product-portal-backend](https://github.com/catenax-ng/product-portal-backend)
+1. 🎉 Merged PR [#351](https://github.com/catenax-ng/product-portal-backend/pull/351) in [catenax-ng/product-portal-backend](https://github.com/catenax-ng/product-portal-backend)
 <!--END_SECTION:activity-->
 
 <details>
