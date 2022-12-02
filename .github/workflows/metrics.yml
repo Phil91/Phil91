@@ -9,13 +9,13 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Update this repo's assets
 
     steps:
       - name: Recent activity
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.activity.svg
+          filename: assets/metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
@@ -27,7 +27,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: assets/base.svg
-          output_action: pull-request
+          # output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
@@ -37,7 +37,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: assets/langs-all.svg
-          output_action: pull-request
+          # output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -53,7 +53,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: assets/langs-indepth-programming.svg
-          output_action: pull-request
+          # output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -70,7 +70,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: assets/langs-recent.svg
-          output_action: pull-request-squash
+          # output_action: pull-request-squash
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
