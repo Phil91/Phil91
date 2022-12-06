@@ -1,11 +1,11 @@
-# Hi there, I'm Phil 🤙
+# Hi there, I'm Phil  🤙 [<img src="./assets/phil_laptop.PNG" width="100"/>](./assets/phil_laptop.PNG)
 
 ## I'm a Software Architect from Germany
 
 - 💻 I’m currently working on: ... private (hopefully soon to be public) projects
-- 🥅 2022 Goals: ... learn more about 🦀 Rust, web3, Svelte and Nuxt / Next
-- 📚 I’m currently learning: ... everything 🤣
-- ⚡ Fun fact: ... I love to surf 🏄‍♂️ and everything marvel related
+- 🥅 2023 Goals: ... contribute to more open source projects, learn 🦀 Rust
+- 📚 I’m currently learning: ... everything, but focus on web3, Svelte and Nuxt / Next and new .NET versions
+- ⚡ Personal facts: ... I love to surf 🏄‍♂️, have the cutest dog alive 🐶 and love food 🤣
 
 ### Connect with me
 
@@ -24,13 +24,13 @@
   <tr>
     <td ccolspan="2">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="375" src="https://github-readme-stats.vercel.app/api?username=Phil91&count_private=true&show_icons=true&theme=tokyonight">
+        <img width="375" src="https://github-readme-stats.vercel.app/api?username=Phil91&count_private=true&show_icons=true&theme=tokyonight">
       </a>
     </td>
     <td>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="375" src="https://streak-stats.demolab.com/?user=Phil91&theme=tokyonight">
-    </a>
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img width="375" src="https://streak-stats.demolab.com/?user=Phil91&theme=tokyonight">
+      </a>
     </td>
   </tr>
 </table>
@@ -61,27 +61,10 @@
         </tr>
       </table>
     </section>
-    <footer><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" /></footer>
   </div>
 </details>
+<footer><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" /></footer>
 
 [website]: https://www.digitalnativesolutions.de
 [linkedin]: https://de.linkedin.com/in/phils91
 [xing]: https://www.xing.com/profile/Philip_Schneider14
-[ms]: https://docs.microsoft.com/de-de/aspnet/core/?view=aspnetcore-6.0
-[sass]: https://sass-lang.com/
-[tailwind]: https://tailwindcss.com/
-[react]: https://reactjs.org/
-[rider]: https://www.jetbrains.com/rider/
-[docker]: https://www.docker.com/
-[postgresql]: https://www.postgresql.org/
-[serverless]: https://www.serverless.com/
-[vscode]: https://code.visualstudio.com/
-[gatsby]: https://www.gatsbyjs.com/
-[graphql]: https://graphql.org/
-[nodejs]: https://nodejs.org/
-[github]: https://github.com/
-[git]: https://git-scm.com/
-[typescript]: https://www.typescriptlang.org/
-[redis]: https://redis.io/
-[azure]: https://azure.com/
