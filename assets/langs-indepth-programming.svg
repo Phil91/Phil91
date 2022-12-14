@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.01mb of code in 556 edited files across 131 commits</small>
+                <small>estimation from 1.04mb of code in 599 edited files across 144 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.9140620766345" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="281.9140620766345" y="0" width="132.07327461941807" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="413.9873366960525" y="0" width="25.529021335998074" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="439.5163580320506" y="0" width="20.4836419679494" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="292.0445499316173" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="292.0445499316173" y="0" width="124.56023501560843" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="416.60478494722577" y="0" width="24.07679302639837" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="440.68157797362414" y="0" width="19.318422026375885" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>61.29%</div>
+                                <div>63.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,7 +48,7 @@
                                 PowerShell
                             </div>
                             <small>
-                                <div>5.55%</div>
+                                <div>5.23%</div>
                             </small>
                         </div>
                     </section>
@@ -61,7 +61,7 @@
                                 PLpgSQL
                             </div>
                             <small>
-                                <div>28.71%</div>
+                                <div>27.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -72,7 +72,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>4.45%</div>
+                                <div>4.2%</div>
                             </small>
                         </div>
                     </section>
