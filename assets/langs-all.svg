@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.37694712931642" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="168.37694712931642" y="0" width="132.09555283019859" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="300.472499959515" y="0" width="84.57875086757662" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="385.0512508270916" y="0" width="35.450961250943415" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="420.50221207803503" y="0" width="22.80548561596172" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="443.3076976939968" y="0" width="8.68558475975512" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.9932824537519" y="0" width="7.308335418406287" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.3016178721582" y="0" width="0.6983821278418479" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.34538481027266" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="168.34538481027266" y="0" width="132.0707914715104" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="300.41617628178307" y="0" width="84.56289655043452" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="384.9790728322176" y="0" width="35.44431595556013" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="420.4233887877777" y="0" width="22.801210719515204" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="443.2245995072929" y="0" width="8.683956643781151" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.9085561510741" y="0" width="7.306965468314619" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.2155216193887" y="0" width="0.784478380611339" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -51,7 +51,7 @@
                                 Objective-C
                             </div>
                             <small>
-                                <div>18.39%</div>
+                                <div>18.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>28.72%</div>
+                                <div>28.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,12 +114,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Lua
+                                Rust
                             </div>
                             <small>
-                                <div>0.15%</div>
+                                <div>0.17%</div>
                             </small>
                         </div>
                     </section>
