@@ -3,7 +3,7 @@
 ## I'm a Software Architect from Germany
 
 - 💻 I’m currently working on: ... [Jihub](https://github.com/phil91/jihub) as Project Maintainer, [Catena-X Portal](https://github.com/eclipse-tractusx/portal-backend) as Commiter and some private (hopefully soon to be public) projects
-- 🥅 2023 Goals: ... contribute to more open source projects, learn 🦀 Rust
+- 🥅 2024 Goals: ... contribute to more open source projects, learn 🦀 Rust
 - 📚 I’m currently learning: ... everything, but focus on web3, Svelte and Nuxt / Next and new .NET versions
 - ⚡ Personal facts: ... I love to surf 🏄‍♂️, have the cutest dog alive 🐶 and love food 🤣
 
